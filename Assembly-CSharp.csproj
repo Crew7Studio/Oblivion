@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9F8F8E5A-6DFA-AD98-AADF-93D913368010}</ProjectGuid>
+    <ProjectGuid>{B07120AE-2DB7-DA79-0C2B-42C7BC6AB5EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -678,44 +678,44 @@
     <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_FX_Grid.shader" />
     <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_Blur_Tilt_Shift_Hole.shader" />
     <None Include="Assets\Camera Filter Pack\Resources\CameraFilterPack_3D_Snow.shader" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -904,16 +904,16 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="DatabaseControl">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Assets/Database Control Free/Scripts/DatabaseControl.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Assets/Database Control Free/Scripts/DatabaseControl.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/OblivionMultiplayerM4/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/JOJU/UNITY_PROJECTS/3D/Oblivion/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
