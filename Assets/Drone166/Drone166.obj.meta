@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 4e4308c45ba50f947a8994e142cba0cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: Cutout
+    2100002: Target_Laser_Disk_Inner
+    2100004: Disk2_Inner
+    2100006: Default
+    2100008: Rings_Mount
+    2100010: Eye_Metal_Cuts
+    2100012: Hex_Plate
+    2100014: Gun_Camera_Lens
+    2100016: Cylinder_Grill
+    2100018: Engine_FireWall
+    2100020: Body_Back_Flat
+    2100022: Body_Aft
+    2100024: Body_Aft_Lower
+    2100026: Body_Back_Sides
+    2100028: Numbers
+    2100030: Face_Trim
+    2100032: Target_Laser_Lens
+    2100034: Target_Laser
+    2100036: Target_Laser_Disk
+    2100038: Disk2
+    2100040: Rings
+    2100042: Rings_Inner
+    2100044: Rings_Center
+    2100046: Disk3
+    2100048: Disk3_Inner
+    2100050: Target_Laser2
+    2100052: Target_Laser3
+    2100054: Ant
+    2100056: Eye_Metal
+    2100058: Eye_Pivots
+    2100060: Eye
+    2100062: Front_Trim
+    2100064: Eye_Dome
+    2100066: Eye_Mount
+    2100068: Bolt_Hole
+    2100070: Aft_Vents
+    2100072: Gun_Camera
+    2100074: Gun_Camera_Tubes
+    2100076: Gun_Camera_Glass
+    2100078: Cylinder_Ring
+    2100080: Cylinder_Vent
+    2100082: Engine_Tubes
+    2100084: Engine_Nozzle
+    2100086: Engine
+    2100088: Engine_Dark
+    2100090: Engine_Nozzle_Ring
+    2100092: Round_Plate
+    2100094: Nozzle_Cap
+    2100096: Nozzle_Ring1
+    2100098: Engine2_Sphere
+    2100100: Nozzle_Ring2
+    2100102: Nozzles
+    2100104: Nozzles_Inner
+    2100106: Nozzle_Fins
+    2100108: Sphere
+    2100110: Engine_FireWall_Cutout
+    2100112: Thrusters
+    2100114: Body_Back
+    2100116: Gun_Covers
+    2100118: Gun_Camera_Mounts
+    2100120: Gun_Armor
+    2100122: Guns
+    2100124: Gun_Lens
+    2100126: Gun_Domes_Dark
+    2100128: Gun_Domes
+    2300000: default
+    3300000: default
+    4300000: default
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

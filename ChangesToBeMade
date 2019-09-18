@@ -1,0 +1,7 @@
+//CHANGES TO BE MADE FOR OBLIVIONMULTIPLAYERM4
+
+* In two player game restart all the enmies from the first
+
+* In Gameover2 screen show the high score of the two player playing not
+	the overall highscore of the entire db;
+	
